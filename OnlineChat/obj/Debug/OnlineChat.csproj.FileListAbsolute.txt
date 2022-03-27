@@ -1,0 +1,14 @@
+D:\Project\Visual Studio\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+D:\Project\Visual Studio\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+D:\Project\Visual Studio\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.frmChat.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.frmLogin.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojAssemblyReference.cache
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.frmRegister.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.frmChange.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Debug\OnlineChat.frmConnect.resources

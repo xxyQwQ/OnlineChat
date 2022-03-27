@@ -1,0 +1,29 @@
+D:\Project\Visual Studio\OnlineChat\OnlineChat\bin\Release\OnlineChat.exe.config
+D:\Project\Visual Studio\OnlineChat\OnlineChat\bin\Release\OnlineChat.exe
+D:\Project\Visual Studio\OnlineChat\OnlineChat\bin\Release\OnlineChat.pdb
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.Properties.Resources.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.csproj.GenerateResource.cache
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.exe
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.pdb
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmChat.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmLogin.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmConnect.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmChange.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmRegister.resources
+D:\Project\Visual Studio\OnlineChat\OnlineChat\obj\Release\OnlineChat.csprojAssemblyReference.cache
+D:\Project\OnlineChat\OnlineChat\bin\Release\OnlineChat.exe.config
+D:\Project\OnlineChat\OnlineChat\bin\Release\OnlineChat.exe
+D:\Project\OnlineChat\OnlineChat\bin\Release\OnlineChat.pdb
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.csproj.AssemblyReference.cache
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.csproj.SuggestedBindingRedirects.cache
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmChat.resources
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmConnect.resources
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmLogin.resources
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.Properties.Resources.resources
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmChange.resources
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.frmRegister.resources
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.csproj.GenerateResource.cache
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.csproj.CoreCompileInputs.cache
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.exe
+D:\Project\OnlineChat\OnlineChat\obj\Release\OnlineChat.pdb
